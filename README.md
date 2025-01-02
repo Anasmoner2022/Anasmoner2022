@@ -1,5 +1,5 @@
 
-<img src="/Anas.svg" alt="Anasmoner2022">
+<img src="./Anas.svg" alt="Anasmoner2022">
 <!--
 **Anasmoner2022/Anasmoner2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
